@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "49a2e94709567711f0d8",
+    "revision": "5d15174786c990269fb9",
     "url": "/home/static/css/main.c8ce0ed8.chunk.css"
   },
   {
-    "revision": "49a2e94709567711f0d8",
-    "url": "/home/static/js/main.49a2e947.chunk.js"
+    "revision": "5d15174786c990269fb9",
+    "url": "/home/static/js/main.5d151747.chunk.js"
   },
   {
     "revision": "3c11774c00c8fe3168dd",
@@ -20,11 +20,11 @@ self.__precacheManifest = [
     "url": "/home/static/js/runtime~main.37f40d25.js"
   },
   {
-    "revision": "06e733283fa43d1dd57738cfc409adbd",
-    "url": "/home/static/media/logo.06e73328.svg"
+    "revision": "9ec911d0be672e5447ab7336625d5a46",
+    "url": "/home/static/media/cardeal_2.9ec911d0.jpg"
   },
   {
-    "revision": "93b8f631259b2874c91c77ba137e8393",
+    "revision": "6856a3ce76e9f6d6ba55d936a6a262f9",
     "url": "/home/index.html"
   }
 ];
