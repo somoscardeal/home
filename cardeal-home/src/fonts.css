@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'NanumMyeongjo-ExtraBold';
+    src: url('./fonts/NanumMyeongjo-ExtraBold.ttf');
+}
+
+@font-face {
+    font-family: 'NotoSerifDisplay_SemiCondensed-Bold';
+    src: url('./fonts/NotoSerifDisplay_SemiCondensed-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Senzow';
+    src: url('./fonts/Senzow.ttf');
+}
+
+@font-face {
+    font-family: 'Fontspring-DEMO-proximanova-extrabold';
+    src: url('./fonts/Fontspring-DEMO-proximanova-extrabold.otf');
+}
