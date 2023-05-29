@@ -17,3 +17,8 @@
     font-family: 'Fontspring-DEMO-proximanova-extrabold';
     src: url('./fonts/Fontspring-DEMO-proximanova-extrabold.otf');
 }
+
+@font-face {
+    font-family: 'Fontspring-DEMO-proximanova-regular';
+    src: url('./fonts/Fontspring-DEMO-proximanova-regular.otf');
+}
